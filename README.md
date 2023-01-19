@@ -8,3 +8,7 @@ These files are for educational use to determine ways the Flipper can work, how 
 
 # USAGE
 Add these files to /subghz/ on your Flipper Zero (preferrably in a new directory named "Jamming"), and access them using the Sub-GHz application.
+
+# DISCLAIMER - PLEASE READ
+If you do not know what you are doing with these files, you should probably not try
+These files were uploaded for the purposes of education, research, and experimentation with devices you yourself own. I neither endorse nor shall be held responsible for any potentially unethical or malicious activity from your usage of these files
